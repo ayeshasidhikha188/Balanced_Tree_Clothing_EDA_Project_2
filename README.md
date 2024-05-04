@@ -43,8 +43,8 @@ The analysis is conducted using two main datasets:
 * Most common combination of at least 1 quantity of any 3 products in a single transaction.
 
 ### Files
-**analysis.ipynb:** Jupyter notebook containing the code for the analysis.
-**data:** CSV files  containing the datasets used for the analysis.
+* **analysis.ipynb:** Jupyter notebook containing the code for the analysis.
+* **data:** CSV files  containing the datasets used for the analysis.
 
 ### Dependencies
 The analysis is done using Python and requires the following libraries:
